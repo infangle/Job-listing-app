@@ -51,5 +51,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## images
 **Image 1**
-![Job list dashboard](https://github.com/user-attachments/assets/5bb5efa4-4f75-4ea3-804e-94b9e6ab80d2)
-
+![app dashboard screenshot](https://github.com/user-attachments/assets/e5bc2e06-bb2e-43dd-8d14-f7622cd18330)
